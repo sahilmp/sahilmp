@@ -51,7 +51,7 @@ MS thesis at the **Quantum Information and Computation group, Harish-Chandra Res
 - **Open-source contribution (unitaryHACK26)** — Beginner tutorial on VQE for quantum drug discovery, merged into the Quantum Universal Education project, earning a bounty.
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/sahil-prabhudesai-146138215/) · sahilmprabhudesai@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sahil-prabhudesai-146138215/)
 
 ---
 <sub>💡 Interests: Quantum Computing · Artificial Intelligence · Data Science · Machine Learning</sub>
